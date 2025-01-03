@@ -177,6 +177,13 @@ var im = imag( z );
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/strided-base/reinterpret-complex128`][@stdlib/strided/base/reinterpret-complex128]</span><span class="delimiter">: </span><span class="description">reinterpret a Complex128Array as a Float64Array.</span>
+-   <span class="package-name">[`@stdlib/strided-base/reinterpret-complex64`][@stdlib/strided/base/reinterpret-complex64]</span><span class="delimiter">: </span><span class="description">reinterpret a Complex64Array as a Float32Array.</span>
+
 </section>
 
 <!-- /.related -->
@@ -207,7 +214,7 @@ See [LICENSE][stdlib-license].
 
 ## Copyright
 
-Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
+Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 
 </section>
 
@@ -252,6 +259,14 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [branches-url]: https://github.com/stdlib-js/strided-base-reinterpret-complex/blob/main/branches.md
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/strided-base-reinterpret-complex/main/LICENSE
+
+<!-- <related-links> -->
+
+[@stdlib/strided/base/reinterpret-complex128]: https://github.com/stdlib-js/strided-base-reinterpret-complex128
+
+[@stdlib/strided/base/reinterpret-complex64]: https://github.com/stdlib-js/strided-base-reinterpret-complex64
+
+<!-- </related-links> -->
 
 </section>
 
