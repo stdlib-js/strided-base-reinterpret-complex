@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-05-09)
+## Unreleased (2026-05-10)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`3a68571`](https://github.com/stdlib-js/stdlib/commit/3a68571c9986c75439da1e4ca96055bef4b892ad) - **docs:** improve doctests for complex number typed arrays in `strided` [(#12032)](https://github.com/stdlib-js/stdlib/pull/12032) _(by Karan Anand)_
 -   [`f7304bd`](https://github.com/stdlib-js/stdlib/commit/f7304bd6d7ffd88df213dff3b3ca5d380443dcfc) - **bench:** refactor to use string interpolation in `@stdlib/strided-base` [(#11449)](https://github.com/stdlib-js/stdlib/pull/11449) _(by Uday Kakade, Karan Anand)_
 
 </details>
